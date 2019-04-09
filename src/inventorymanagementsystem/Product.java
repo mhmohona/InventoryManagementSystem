@@ -32,7 +32,7 @@ public class Product {
     }
     
     public float getPrice(){
-        return id;
+        return price;
     }
     
     public String getAddDate(){
