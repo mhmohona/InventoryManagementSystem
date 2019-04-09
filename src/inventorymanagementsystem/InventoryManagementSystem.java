@@ -16,6 +16,7 @@ public class InventoryManagementSystem {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new Main_Window().setVisible(true);
     }
     
 }
